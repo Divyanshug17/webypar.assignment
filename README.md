@@ -9,5 +9,5 @@ cd reactail
 # Install frontend dependencies
 npm install
 
-# Start backend
+# Start frontend
 npm run dev
